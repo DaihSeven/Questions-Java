@@ -1,7 +1,7 @@
 package lampada7;
 
 /*******************************************************************************
-2. Implementar uma classe Lampada que deve possuir como características tipo (led, fluorescente,...), voltagem,
+07. Implementar uma classe Lampada que deve possuir como características tipo (led, fluorescente,...), voltagem,
 cor, marca, preço, potência, status(boolean). Nesta classe devem ser implementados os métodos
 construtores, getters, setters, toString, ascender e apagar. Em uma outra classe chamada LampadaTesteVetor
 deverá ser criado um vetor para armazenar 30 objetos do tipo Lampada. O programa deverá exibir o seguinte
