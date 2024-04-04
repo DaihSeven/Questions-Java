@@ -2,7 +2,7 @@
 horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário.
 A seguir, mostre na tela o número e o salário do funcionário. */
 
-package exercicios;
+package src.exercicios;
 import java.util.Scanner;
 
 public class CalculaSalario11 {

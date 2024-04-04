@@ -8,7 +8,7 @@
 *  “Deseja encerrar o programa?”
 * Obs.: Nas opções 3 e 4 informar se o usuário está acima ou abaixo do peso ideal.
 *******************************************************************************/
-package exercicios;
+package src.exercicios;
 
 import java.util.Scanner;
 

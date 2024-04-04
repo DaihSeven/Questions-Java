@@ -38,10 +38,9 @@
  * | 5                  | quartas             |
  * | 8                  |                     |
  * --------------------------------------------
- * Olimpíada Brasileira de Informática – OBI2018 Fase 2
- * *Para um conjunto de casos de testes valendo 30 pontos, K = 1.
+ * 
  */
-package exercicios;
+package src.exercicios;
 
 import javax.swing.*;
 import java.awt.event.*;

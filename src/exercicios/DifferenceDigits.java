@@ -15,7 +15,7 @@ Exemplo
 
 */
 
-package exercicios;
+package src.exercicios;
 
 import java.util.Scanner;
 

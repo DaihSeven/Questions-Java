@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import javax.swing.SwingUtilities;
 
-import exercicios.TournamentCalculator;
+import src.exercicios.TournamentCalculator;
 
 public class TournamentCalculator20 {
     public static void main(String[] args) throws IOException {

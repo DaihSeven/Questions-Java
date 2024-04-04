@@ -23,7 +23,7 @@ Para cada caso de teste, imprima uma linha contendo o número de dias que Blobs 
 -----------------------------------------
  */
 
- package exercicios;
+ package src.exercicios;
 
  import java.util.Scanner;
  

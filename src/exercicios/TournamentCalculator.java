@@ -1,4 +1,4 @@
-package exercicios;
+package src.exercicios;
 
 import javax.swing.*;
 import java.awt.event.*;

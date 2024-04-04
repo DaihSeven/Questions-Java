@@ -21,7 +21,7 @@ Para cada caso de teste na entrada seu programa deve gerar uma linha contendo a 
 | 0 | |
 -------------------------------------------------- ------------- */
 
-package exercicios;
+package src.exercicios;
 
 import java.util.Scanner;
 

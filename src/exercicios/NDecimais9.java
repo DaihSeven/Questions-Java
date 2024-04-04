@@ -16,7 +16,7 @@ A = lado * lado
 
 f) o perímetro do retângulo que tem lados A e B */
 
-package exercicios;
+package src.exercicios;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package banco12;
+/**package banco12;
 
 import java.util.Scanner;
 
@@ -97,3 +97,4 @@ private static void sacar() {
 }
 
 }
+**/

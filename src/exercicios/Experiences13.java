@@ -23,7 +23,7 @@ Apresente o total de cobaias utilizadas, o total de cada tipo de cobaia utilizad
 | 14 R               |                                |
 -------------------------------------------------------
  */
-package exercicios;
+package src.exercicios;
 
 import java.io.IOException;
 import java.util.Scanner;

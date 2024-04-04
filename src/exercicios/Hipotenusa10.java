@@ -3,7 +3,7 @@ Para esse caso, considere que ℎ𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎 = √𝐴�
 Dica: usar a função matemática Math.sqrt().
 */
 
-package exercicios;
+package src.exercicios;
 
 import java.util.Scanner;
 
